@@ -49,5 +49,7 @@ Explore the output
 
 
 Mian Haseeb Nasir
+
 Software Engineer | AI Developer | Full Stack Developer
+
 Founder — Nova-Stack Technologies
